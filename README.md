@@ -1,3 +1,3 @@
 # Medium Scroll Blur Effect 
 
-that http://ennnnno.github.io/Medium-Blur-Scrolling
+that [ennnnno.github.io/Medium-Blur-Scrolling](http://ennnnno.github.io/Medium-Blur-Scrolling)
